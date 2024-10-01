@@ -1,0 +1,1 @@
+﻿UPDATE Trip SET NumberOfPassengers -= 1;

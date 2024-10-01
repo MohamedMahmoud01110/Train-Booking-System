@@ -1,0 +1,1 @@
+﻿DELETE Ticket WHERE TicketNumber < 140;
